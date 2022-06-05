@@ -14,3 +14,4 @@
 
 <!-- <a href="https://github.com/yilserkan/github-readme-stats"><img alt="yilserkan's stats" src="https://github-readme-stats.vercel.app/api?username=yilserkan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"></a> -->
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yilserkan&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="yilserkan" /></p>
