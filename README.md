@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Serkan</h1>
-<h3 align="center">A passionate game developer.</h3>
+<h1>Hi 👋, I'm Serkan</h1>
+<h3>A passionate game developer.</h3>
 
 - 🔭 My interests are in **game programming and 3D modelling.**
 
 - 📫 You can reach me via **asdasdas.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
