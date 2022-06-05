@@ -16,4 +16,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yilserkan&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="yilserkan" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yilserkan&label=Profile%20views&color=a1b40e&style=flat-square" alt="yilserkan" /> </p>
