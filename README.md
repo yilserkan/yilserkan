@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Serkan</h1>
 <h3>A passionate game developer.</h3>
 
-- 🔭 My interests are in **game programming.**
+- 🔭 My interest is in **game programming.**
 
 - 📫 You can reach me via **yilserkan6@gmail.com.**
 
