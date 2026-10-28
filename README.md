@@ -3,8 +3,6 @@
 
 - 🔭 My interest is in **game programming.**
 
-- 📫 You can reach me via **yilserkan6@gmail.com.**
-
 <p align="left">
 </p>
 
